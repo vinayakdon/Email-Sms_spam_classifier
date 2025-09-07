@@ -64,11 +64,6 @@ A machine learning project to classify whether a given **email or SMS message** 
    streamlit run app.py
 ---
 
-## 📸 Screenshots  
-(Add screenshots of the app UI here after running the project.)  
-
----
-
 ## 🔮 Future Improvements  
 - Support classification in **multiple languages**.  
 - Enhance dataset with **real-time email/SMS feeds**.  
